@@ -7,7 +7,7 @@ Hello!
   * Here is item 1b.
 
 As I once said:
-> This is probably not my best quote,
+> This is probably not my best quote,</br>
 > but it will do.
 > Why won't this go on a new line?
 
